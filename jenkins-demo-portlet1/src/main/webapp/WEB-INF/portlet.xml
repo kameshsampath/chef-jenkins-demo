@@ -17,9 +17,9 @@
 			<mime-type>text/html</mime-type>
 		</supports>
 		<portlet-info>
-			<title>Chef Jenkins Demo 1</title>
-			<short-title>Chef Jenkins Demo 1</short-title>
-			<keywords>chef,jenkins,demo1</keywords>
+			<title>Chef Jenkins Demo One</title>
+			<short-title>Chef Jenkins Demo One</short-title>
+			<keywords>chef,jenkins,demo,one</keywords>
 		</portlet-info>
 		<security-role-ref>
 			<role-name>administrator</role-name>
