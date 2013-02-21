@@ -8,7 +8,6 @@
 	<name>Chef Jenkins Demo Parent</name>
 	<modules>
 		<module>jenkins-demo-portlet1</module>
-		<module>jenkins-demo-portlet2</module>
 	</modules>
 
 	<properties>
