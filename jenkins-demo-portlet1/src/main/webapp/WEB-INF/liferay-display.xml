@@ -3,6 +3,6 @@
 
 <display>
 	<category name="category.sample">
-		<portlet id="jenkins-demo-portlet1" />
+		<portlet id="jenkins-demo-portlet-one" />
 	</category>
 </display>

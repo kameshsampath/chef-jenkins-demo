@@ -6,12 +6,12 @@
 		<artifactId>chef-jenkins-demo-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>jenkins-demo-portlet1</artifactId>
+	<artifactId>jenkins-demo-portlet-one</artifactId>
 	<packaging>war</packaging>
 	<name>Jenkins Portlet One</name>
 
 	<build>
-		<finalName>${project.artifactId}</finalName>
+		<finalName>jenkins-demo-portlet-one</finalName>
 		<plugins>
 			<plugin>
 				<groupId>com.liferay.maven.plugins</groupId>

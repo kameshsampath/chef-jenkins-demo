@@ -3,7 +3,7 @@
 
 <liferay-portlet-app>
 	<portlet>
-		<portlet-name>jenkins-demo-portlet1</portlet-name>
+		<portlet-name>jenkins-demo-portlet-one</portlet-name>
 		<icon>/icon.png</icon>
 		<instanceable>false</instanceable>
 		<header-portlet-css>/css/main.css</header-portlet-css>
