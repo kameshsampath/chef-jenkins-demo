@@ -2,6 +2,6 @@
 
 <portlet:defineObjects />
 
-I was applied because of <b>Jenkins and Chef Integration</b>
+<big>Chef in Action</big>
 
-I get applied automatically
+you have seen how we can integrate Liferay with Chef and Jenkins for continious deployments
