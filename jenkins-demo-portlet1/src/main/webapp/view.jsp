@@ -4,4 +4,4 @@
 
 I was applied because of <b>Jenkins and Chef Integration</b>
 
-I getapplied automatically
+I get applied automatically
