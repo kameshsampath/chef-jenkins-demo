@@ -2,6 +2,4 @@
 
 <portlet:defineObjects />
 
-<big>Chef in Action</big>
-
-you have seen how we can integrate Liferay with Chef and Jenkins for continious deployments
+This is the <b>jenkins-demo-portlet1</b>.
