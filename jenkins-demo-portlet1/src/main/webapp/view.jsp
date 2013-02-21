@@ -2,4 +2,6 @@
 
 <portlet:defineObjects />
 
-This is the <b>jenkins-demo-portlet1</b>.
+I was applied because of <b>Jenkins and Chef Integration</b>
+
+I getapplied automatically
