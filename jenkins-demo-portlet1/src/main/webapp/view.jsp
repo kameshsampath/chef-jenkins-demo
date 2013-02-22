@@ -2,4 +2,4 @@
 
 <portlet:defineObjects />
 
-This is the <b>jenkins-demo-portlet1</b>.
+Hello, you are seeing thing change as a result of automated <b>Chef-Liferay-Jenkins</b> integration.
