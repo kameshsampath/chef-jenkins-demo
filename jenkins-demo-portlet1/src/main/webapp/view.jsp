@@ -2,4 +2,4 @@
 
 <portlet:defineObjects />
 
-Accenture High Performance Delivered
+Deployed automatically by Chef-Jenkins-Liferay integration - Devops Automation
