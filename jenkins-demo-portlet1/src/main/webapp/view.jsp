@@ -2,4 +2,4 @@
 
 <portlet:defineObjects />
 
-Welcome to : Accenture Innovation Center for Open Source
+Accenture High Performance Delivered
