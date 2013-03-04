@@ -2,4 +2,4 @@
 
 <portlet:defineObjects />
 
-Devops Automation with Chef, Liferay and Jenkins2
+Devops Automation with Chef, Liferay and Jenkins 3
