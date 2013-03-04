@@ -2,4 +2,4 @@
 
 <portlet:defineObjects />
 
-Hello Lalit, i get pushed automatically
+Accenture. High Performance delivered.
