@@ -2,4 +2,4 @@
 
 <portlet:defineObjects />
 
-Deployed automatically by Chef-Jenkins-Liferay integration - Devops Automation
+Devops Automation
