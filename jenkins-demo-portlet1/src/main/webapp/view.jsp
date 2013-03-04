@@ -2,4 +2,4 @@
 
 <portlet:defineObjects />
 
-Hello, you are seeing thing change as a result of automated <b>Chef-Liferay-Jenkins</b> integration.
+Hello Lalit, i get pushed automatically
